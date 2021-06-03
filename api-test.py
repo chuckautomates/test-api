@@ -1,3 +1,8 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 
-return("Hello World")
+def main():
+    return('Hello World')
+
+
+if __name__ == '__main__':
+    main()
